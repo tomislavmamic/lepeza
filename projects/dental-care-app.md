@@ -1,6 +1,6 @@
 ---
 date: 2021-06-28
-thumbnail: ''
+thumbnail: "/uploads/screenshot-2021-06-28-at-22-29-19.png"
 title: Denther
 categories: []
 project_bg_color: ''
