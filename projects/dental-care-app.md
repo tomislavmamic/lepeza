@@ -13,7 +13,7 @@ categories:
 - 'Problem solving '
 - 'Design thinking '
 project_bg_color: "#FFFFFF"
-project_fg_color: "#F3F3F3"
+project_fg_color: "#0E002B"
 
 ---
 ### **Overview**
