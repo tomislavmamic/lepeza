@@ -1,6 +1,6 @@
 ---
 date: 2021-06-28
-thumbnail: ''
+thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
 title: Apparel Marketplace Mobile App
 categories:
 - ui
