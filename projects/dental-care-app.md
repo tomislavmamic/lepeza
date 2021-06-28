@@ -7,7 +7,7 @@ categories:
 - " ui"
 - testing
 project_bg_color: "#150335"
-project_fg_color: ''
+project_fg_color: "#FFFFFF"
 
 ---
 ### Problem
