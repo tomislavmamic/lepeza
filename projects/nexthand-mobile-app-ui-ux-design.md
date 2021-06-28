@@ -1,7 +1,7 @@
 ---
 date: 2021-06-28
 thumbnail: ''
-title: Clothing Marketplace Mobile App UI-UX Design
+title: Apparel Marketplace Mobile App
 categories:
 - ui
 - ux
