@@ -3,10 +3,10 @@
 
 module.exports = {
   siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteUrl: `https://lepeza.design`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s - Antonija Elpeza",
+  siteDescription: "UI-UX Designer",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
