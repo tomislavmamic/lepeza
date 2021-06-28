@@ -10,3 +10,28 @@ project_bg_color: "#150335"
 project_fg_color: ''
 
 ---
+### Problem
+
+Design a digital workspace for dentists to annotate dental images and create diagnosis.
+
+### Solution
+
+#### 1. Mark as healthy
+
+umetni slike
+
+#### 2. Add signs
+
+umetni slike
+
+#### 3. View health records
+
+umetni slike
+
+#### 4. Create diagnosis
+
+umetni slike
+
+### Comment
+
+The project is done for Denther, innovative startup that enables dental professionals to provide quality dental services online.
