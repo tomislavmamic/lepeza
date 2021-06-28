@@ -24,7 +24,7 @@ Denther is an app that provides quality dental services online.
 
 Patients don’t know if they are getting the right dental diagnosis. If they want another opinion they would need to meet more dentists in person. That means big expenses and a waste of time going from one to another dentist. Because of that, we needed to design a digital workspace for dentists to annotate dental images and create diagnoses for patients. The dental workspace needed to be as much clear to understand as possible so that dentists can easily give a diagnosis that would have even better quality than giving a diagnosis in person.
 
-#### **Users & Audience**
+### **Users & Audience**
 
 Denther is made for **patients** who need more opinions for reinsurance. They want better and easier tracking of dental health.
 
