@@ -1,11 +1,15 @@
 ---
 date: 2021-06-28
 thumbnail: "/uploads/screenshot-2021-06-28-at-22-29-19.png"
-title: Dental Diagnosis App
+title: Denther
 categories:
-- ux
-- " ui"
-- testing
+- 'UX '
+- 'UI '
+- 'Usability testing '
+- Low-fidelity wireframes
+- 'High-fidelity wireframes '
+- Prototype
+- Design flow
 project_bg_color: "#150335"
 project_fg_color: "#FFFFFF"
 
