@@ -36,7 +36,6 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
-- projects/chelsea-landmark.md
 - projects/dental-care-app.md
 - projects/ios-concept.md
 - projects/nexthand-mobile-app-ui-ux-design.md
