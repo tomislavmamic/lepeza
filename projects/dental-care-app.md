@@ -1,7 +1,7 @@
 ---
 date: 2021-06-28
 thumbnail: "/uploads/screenshot-2021-06-28-at-22-29-19.png"
-title: Dentist App UI-UX Design
+title: Dental Diagnosis App
 categories:
 - ux
 - " ui"
