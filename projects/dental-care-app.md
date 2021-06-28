@@ -38,7 +38,17 @@ Also, the app is for **X-ray providers** who want to provide X-rays for all pati
 
 #### 3. View health records
 
-umetni slike
+Denther has three parts, for dentists, patients, and photographers.
+
+Firstly project manager and I decided that we would design an app for dentists because we needed to see could app function from the dentist’s side of the point.
+
+Based on the diagram flow I designed low-fidelity wireframes of the Denther app.
+
+Cooperating with future users of the application, we tested the design of the application with Maze and discovered potential problems.
+
+We also came across many problems during the design process so I would first put the most important problems on paper.
+
+After that, I could clearly see problems that I can solve in one or another way with consulting project manager, dentists, or potential users.
 
 #### 4. Create diagnosis
 
