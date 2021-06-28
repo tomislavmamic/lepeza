@@ -1,8 +1,12 @@
 ---
 date: 2021-06-28
 thumbnail: ''
-title: Nexthand Mobile App UI-UX Design
-categories: []
+title: Clothing Marketplace Mobile App UI-UX Design
+categories:
+- ui
+- ux
+- mobile
+- app
 project_bg_color: ''
 project_fg_color: ''
 
